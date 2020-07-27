@@ -1,0 +1,8 @@
+目标：Linux/mac环境下，部署新的环境，实现，python版本切换；
+
+具体工具：
+1，pyenv
+  git托管地址：https://github.com/pyenv/pyenv
+  安装方式：
+    yum install git -y
+    git clone https://github.com/pyenv/pyenv.git ~/.pyenv
